@@ -33,10 +33,12 @@ hotkey|snelsleutel
 ID|ID
 indent|keep in, inkeping
 italics|skuinsdruk
+legacy|nagelate
 link|skakel
 list|lys
 markdown link|markdown-skakel
 markdown|markdown
+navigation|navigasie
 obsidian|obsidian
 palette|palet
 pane|TODO
@@ -52,10 +54,12 @@ sidebar|sybalk
 spell check|speltoets
 spell checker|speltoetser
 supporter|ondersteuner
+tab|tab (tabuleerkarakter)
 tag|etiket
 translucent|deurskynend
 unlink|ontkoppel
 vault|kluis
+view|aansig
 workspace|werksarea
 Zettel|Zettel
 Zettelkasten|Zettelkasten
