@@ -20,6 +20,7 @@ checklist|kontrolelys
 code block|kodeblok
 collapse|stort ineen
 command palette|opdragpalet
+excluded|uitgeslote
 expand|brei uit
 file|lêer
 file explorer|lêerverkenner
@@ -40,13 +41,14 @@ markdown link|markdown-skakel
 markdown|markdown
 navigation|navigasie
 obsidian|obsidian
+override|
 palette|palet
 pane|TODO
 plugin|inprop
 plugins|inproppe
 preview|voorskou
 preview mode|voorskoumodus
-quick switcher|snelskakelaar
+quick switcher|kitswisselaar
 regex|regex
 repository|TODO
 screenshot|skermskoot
