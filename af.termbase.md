@@ -22,6 +22,7 @@ checklist|kontrolelys
 code block|kodeblok
 collapse|stort ineen
 command palette|opdragpalet
+delete|wis uit
 excluded|uitgeslote
 expand|brei uit
 file|lêer
