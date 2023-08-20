@@ -11,10 +11,12 @@ Hou die lys asseblief in **alfabetiese volgorde**. Skei meervoudige opsies met k
 |Engelse Term|Afrikaanse Vertaling|
 |-|-|
 account|rekening
+app|toep
 attachment|aanhegsel
 backlinks|terugskakels
 block|blok
 bold|vetdruk
+browse|deursoek
 catalyst|katalisator
 checklist|kontrolelys
 code block|kodeblok
@@ -26,7 +28,8 @@ file|lêer
 file explorer|lêerverkenner
 fold|vou
 folder|omslag
-frontmatter|voormateriaal
+font|lettertipe
+frontmatter|voorwoordelike materiaal
 graph|grafiek
 heading|opskrif
 help|hulp, help
@@ -39,11 +42,13 @@ link|skakel
 list|lys
 markdown link|markdown-skakel
 markdown|markdown
+menu|kieslys
 navigation|navigasie
 obsidian|obsidian
 override|
 palette|palet
 pane|TODO
+pixel|piksel
 plugin|inprop
 plugins|inproppe
 preview|voorskou
@@ -51,6 +56,7 @@ preview mode|voorskoumodus
 quick switcher|kitswisselaar
 regex|regex
 repository|TODO
+ribbon menu|kiesstrook
 screenshot|skermskoot
 sidebar|sybalk
 spell check|speltoets
