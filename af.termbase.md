@@ -18,11 +18,13 @@ block|blok
 bold|vetdruk
 browse|deursoek
 catalyst|katalisator
+changelog|wysigingsregister
 checklist|kontrolelys
 code block|kodeblok
 collapse|stort ineen
 command palette|opdragpalet
 delete|wis uit
+disabled|afgeskakel
 excluded|uitgeslote
 expand|brei uit
 file|lêer
@@ -49,6 +51,7 @@ obsidian|obsidian
 override|
 palette|palet
 pane|TODO
+performance|werkverrigting
 pixel|piksel
 plugin|inprop
 plugins|inproppe
@@ -67,6 +70,7 @@ tab|tab (tabuleerkarakter)
 tag|etiket
 translucent|deurskynend
 unlink|ontkoppel
+validate|kontroleer geldigheid
 vault|kluis
 view|aansig
 workspace|werksarea
