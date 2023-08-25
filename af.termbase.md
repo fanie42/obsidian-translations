@@ -16,7 +16,7 @@ attachment|aanhegsel
 backlinks|terugskakels
 block|blok
 bold|vetdruk
-browse|deursoek
+browse|deursoek of verken
 catalyst|katalisator
 changelog|wysigingsregister
 checklist|kontrolelys
@@ -59,7 +59,7 @@ preview|voorskou
 preview mode|voorskoumodus
 quick switcher|kitswisselaar
 regex|regex
-repository|TODO
+repository|berging
 ribbon menu|kiesstrook
 screenshot|skermskoot
 sidebar|sybalk
