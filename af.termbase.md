@@ -23,8 +23,11 @@ checklist|kontrolelys
 code block|kodeblok
 collapse|stort ineen
 command palette|opdragpalet
+configure|verstel
 delete|wis uit
 disabled|afgeskakel
+embed|inbed
+embedded|ingebedde
 excluded|uitgeslote
 expand|brei uit
 file|lêer
@@ -43,6 +46,7 @@ italics|skuinsdruk
 legacy|nagelate
 link|skakel
 list|lys
+manage|bestuur
 markdown link|markdown-skakel
 markdown|markdown
 menu|kieslys
@@ -65,9 +69,12 @@ screenshot|skermskoot
 sidebar|sybalk
 spell check|speltoets
 spell checker|speltoetser
+strikethrough|deurgehaal
 supporter|ondersteuner
 tab|tab (tabuleerkarakter)
 tag|etiket
+toggle|verwissel
+toolbar|nutsbalk
 translucent|deurskynend
 unlink|ontkoppel
 validate|kontroleer geldigheid
